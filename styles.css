@@ -38,14 +38,15 @@ body {
   
   figcaption{
     text-align: center;
-    transform: translateX(-50px);
     border: 1px solid;
+    max-width: 200px;
+    height: 40px;
+    max-height: 40px;
   }
   
   h1 {
    display: flex;
    justify-content: center;
-   transform: translateX(-40px);
   }
 
   #shoeImg {
